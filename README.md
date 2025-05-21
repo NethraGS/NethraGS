@@ -17,21 +17,19 @@
 
 ---
 
-### 🚀 Tech Stack
+## 💻 Tech Stack
 
-- **Languages**: Java, C, C++, Python
-- **Web**: HTML5, CSS3, JavaScript, REST APIs
-- **Frameworks**: Angular, Spring Boot, Spring Data JPA
-- **Databases**: PostgreSQL, MySQL
-- **Cloud**: AWS, Microsoft Azure
-- **Tools & Platforms**: Git, GitHub, MATLAB
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NethraGS&show_icons=true&theme=radical" height="180" />
-  <img src="https://streak-stats.demolab.com?user=NethraGS&theme=radical" height="180" />
-</p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+
+
 
