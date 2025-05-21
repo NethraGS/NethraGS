@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://github.com/NethraGS/NethraGS/blob/main/Github_Banner.jpg" alt="banner" width="80%" />
+</p>
+
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif" width="30px" />, I'm Nethra G S
 </h1>
-<h3 align="center">Full Stack Developer </h3>
+
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://nethra-pf.netlify.app/" target="_blank">🌐 Portfolio</a> •
@@ -9,13 +14,11 @@
   <a href="mailto:nethra120304@gmail.com">📧 Email</a>
 </p>
 
-
 ---
 
 🎓 B.E.- ECE Final-year student @ SREC, Coimbatore  
 🛠️ Enjoy building real-world full-stack solutions  
 🌱 Learning something new every day — in code and in life!
-
 
 ---
 
@@ -56,5 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NethraGS&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethraGS&theme=react&hide_border=true" />
 </p>
-
-
